@@ -1,2 +1,2 @@
-# soar-premake-files
-premake script to build soar
+
+premake scripts to build Soar AI
